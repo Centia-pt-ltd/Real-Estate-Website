@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/mapushgroup.com/index.php

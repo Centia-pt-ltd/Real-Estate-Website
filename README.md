@@ -16,12 +16,15 @@
 - Visual Studio Framework 4.0 or above.
 
 - MS SQL 2008R2 or above.
+- PHP
+- HTML
 
 ## Tech Stack
 
 - Visual Studio 2010 or above.
 
 - MS SQL 2008R2 or above.
+- PHP
   
 ## Language
 
@@ -30,6 +33,8 @@
 - CSS
 
 - JavaScript
+- HTML
+- PHP
 
 
  
@@ -44,7 +49,7 @@
 
 ## License
 
-Copyright (c) [2021] [icybersecurities.com]
+Copyright (c) [2021] [mapushgroup.com]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

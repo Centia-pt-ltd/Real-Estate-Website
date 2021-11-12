@@ -16,25 +16,22 @@
 - Visual Studio Framework 4.0 or above.
 
 - MS SQL 2008R2 or above.
-- PHP
-- HTML
 
 ## Tech Stack
 
 - Visual Studio 2010 or above.
 
 - MS SQL 2008R2 or above.
-- PHP
+
   
 ## Language
 
 - ASP.NET
-
-- CSS
-
-- JavaScript
 - HTML
-- PHP
+- CSS
+- JavaScript
+- Bootstrap
+
 
 ## Screenshot
 
